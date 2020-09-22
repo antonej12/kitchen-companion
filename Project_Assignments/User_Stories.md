@@ -1,0 +1,3 @@
+ - As a **user**, I want to **add/remove grocery items from my kitchen inventory**, so that **I can keep my inventory up-to-date**
+ - As a **user**, I want to **create/edit/delete recipes from a recipe list**, so that **I can keep track of things I like to cook.**
+ - As a **user**, I want to **be given recipes based on my kitchen inventory**, so that **I can decide what to cook based on the ingredients I have.**
