@@ -121,7 +121,6 @@ Mobile app that provides user with features to make cooking food easier. The mai
 - [Google Slides](https://docs.google.com/presentation/d/1w_RPr58Pag0sL0Nmn0KoWPUVeOqIo8dhGb6HaEpxmc0/edit#slide=id.ga55225114d_1_3)
 
 # Self-Assessment Essay
-<h1>Josh Antone - Capstone Assessment</h1>
 
 <p>For my senior design project, I will be creating a mobile application called "Kitchen Companion". This application is all about making cooking and the kitchen experience easier for its users. The main features that will make this happen are an inventory keeper of ingredients the user has available in their kitchen, and a recipe suggester that uses the ingredient inventory to let a user know what they can make based on what they have available. This application will give me the full experience of application development from start to finish, something I have learned a lot about during my academic and professional career. This project will also give me the opportunity to get some experience working in a mobile environment, which is something I haven't yet done. This project will be a great way for me to show everything I have learned during my time at the University of Cincinnati.</p>
 
@@ -134,9 +133,8 @@ Mobile app that provides user with features to make cooking food easier. The mai
 <p>One of the reasons I like my project idea a lot, is that it is an idea that has a lot of attainable goals along the way that I can use to measure my success. I can have a very baseline expectation that should be very attainable as a minimum viable product that will still be a significant effort, but yield a good project. My preliminary approach to designing this application would be an application that allows users to manually input their kitchen inventory, and match that inventory against user-inputted recipes to determine what the user can cook. I can then look at the application from a far more advanced view, and have the ability for a user to use their phone to scan product bar codes to take stock of their kitchen, and then automatically scrape recipes from across the web based on what is in their stock. The path between these two approaches yields many different milestones I can hit and use as a measure of success. The incremental nature of my project sets me up for a clear way to determine results and accomplishments.</p>
 
 # Professional Biography
-<h1>Josh Antone - Professional Biography</h1>
-University of Cincinnat CEAS, Computer Science '21
-<h2>Contact Information</h2>
+Josh Antone - University of Cincinnat CEAS, Computer Science '21
+
 Email: antonejr@mail.uc.edu
 
 Phone: 513-442-6747
@@ -173,5 +171,34 @@ None to date.
 # Appendix
 
 ## References
+- [Android Kotlin Intro Couse](https://developer.android.com/courses/pathways/android-basics-kotlin-one)
+- [Kotlin Documentation for Android Development](https://kotlinlang.org/docs/reference/android-overview.html)
+- [Kotlin Koans](https://play.kotlinlang.org/koans/overview)
+- [Google Firebase Documentation](https://firebase.google.com/docs)
+- [Google Firebase Pricing Information](https://firebase.google.com/pricing)
+- [Android Documentation on User Data](https://developer.android.com/guide/user-data)
+- [Google ML Kit Barcode Scanning Documentation](https://developers.google.com/ml-kit/vision/barcode-scanning/android)
+- [Xamarin Documentation](https://dotnet.microsoft.com/apps/xamarin)
+
+
 
 ## Time Log
+| Task | Hours |
+|------|------|
+|Assignment #1: Professional Biography|1
+|Assignment #2: Team Formation/Idea Brainstorming|4
+|Assignment #3: Capstone Assessment|2
+|Assignment #4: Design Diagrams|2
+|Assignment #5: Task Lists|2
+|Assignment #6: Effort Matrix/Milestones|3
+|Assignment #7: Major Constraints|1
+|Assignment #8: Fall Presentation|3
+|Research front-end frameworks/development|4
+|Kotlin Android Intro Course|2
+|Research mobile back-end development|4
+|Kotlin Koans|3
+|Research database platforms|3
+|Investigate cloud platforms for database deployment|2
+|Investigate Google's Barcode API|3
+|Investigate user account implementation strategies for Android Apps|4
+|Research into search engine/database querying for recipe retrieval system|4
