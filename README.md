@@ -121,7 +121,7 @@ Mobile app that provides user with features to make cooking food easier. The mai
 - [Youtube Video](https://www.youtube.com/watch?v=VRT8eZd8bXQ)
 - [Google Slides](https://docs.google.com/presentation/d/1w_RPr58Pag0sL0Nmn0KoWPUVeOqIo8dhGb6HaEpxmc0/edit#slide=id.ga55225114d_1_3)
 
-# Sprint Presentation
+# Spring Presentation
 - [Poster](https://github.com/antonej12/kitchen-companion/blob/master/Project_Assignments/posterFinal.pdf)
 - [Youtube Video](https://www.youtube.com/watch?v=ZzVQTz4BEVE)
 - [Google Slides](https://docs.google.com/presentation/d/16lV30k5VJPebfR9sPBIMGZbJqEP6NsKh34qQlwuhY2E/edit?usp=sharing)
