@@ -11,6 +11,7 @@ Table of Contents:
   - [Task List](#task-list)
   - [Timeline and Effort Matrix](#timeline-and-effort-matrix)
 - [Fall Presentation](#fall-presentation)
+- [Spring Presentation](#spring-presentation)
 - [Self-Assessment Essay](#self-assessment-essay)
 - [Professional Biography](#professional-biography)
 - [Budget](#budget)
@@ -119,6 +120,11 @@ Mobile app that provides user with features to make cooking food easier. The mai
 # Fall Presentation
 - [Youtube Video](https://www.youtube.com/watch?v=VRT8eZd8bXQ)
 - [Google Slides](https://docs.google.com/presentation/d/1w_RPr58Pag0sL0Nmn0KoWPUVeOqIo8dhGb6HaEpxmc0/edit#slide=id.ga55225114d_1_3)
+
+# Sprint Presentation
+- [Poster](https://github.com/antonej12/kitchen-companion/blob/master/Project_Assignments/posterFinal.pdf)
+- [Youtube Video](https://www.youtube.com/watch?v=ZzVQTz4BEVE)
+- [Google Slides](https://docs.google.com/presentation/d/16lV30k5VJPebfR9sPBIMGZbJqEP6NsKh34qQlwuhY2E/edit?usp=sharing)
 
 # Self-Assessment Essay
 
