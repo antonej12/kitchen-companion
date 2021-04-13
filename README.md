@@ -13,7 +13,7 @@ Table of Contents:
 - [Fall Presentation](#fall-presentation)
 - [Spring Presentation](#spring-presentation)
 - [Self-Assessment Essay](#self-assessment-essay)
-- [Spring Self Assessment](#spring-self-assessment)
+- [Spring Self-Assessment](#spring-self-assessment)
 - [Professional Biography](#professional-biography)
 - [Budget](#budget)
   - [Expenses](#expenses)
@@ -139,7 +139,7 @@ Mobile app that provides user with features to make cooking food easier. The mai
 
 <p>One of the reasons I like my project idea a lot, is that it is an idea that has a lot of attainable goals along the way that I can use to measure my success. I can have a very baseline expectation that should be very attainable as a minimum viable product that will still be a significant effort, but yield a good project. My preliminary approach to designing this application would be an application that allows users to manually input their kitchen inventory, and match that inventory against user-inputted recipes to determine what the user can cook. I can then look at the application from a far more advanced view, and have the ability for a user to use their phone to scan product bar codes to take stock of their kitchen, and then automatically scrape recipes from across the web based on what is in their stock. The path between these two approaches yields many different milestones I can hit and use as a measure of success. The incremental nature of my project sets me up for a clear way to determine results and accomplishments.</p>
 
-#Spring Self-Assessment
+# Spring Self-Assessment
 
 <p>Obviously, by working alone, my individual contribution to the project was the entire thing. I was able to build on and apply the skills I had mentioned in my self-assessment from the Fall. These included things like programming knowledge gained through various classes I have taken at UC like CS1021C (Computer Science I) and CS2021 (Python Programming). This also includes knowledge about the software development process from courses like EECE3093C (Software Engineering). I also applied a lot of what I learned as a Software Engineering Co-op at KLH Engineers by doing application programming and user interface design and implementation. Overall, I was able to make good use of things I have learned during my time at UC and was also able to build upon those skills by working on this senior design project.</p>
 
