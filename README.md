@@ -13,7 +13,7 @@ Table of Contents:
 - [Fall Presentation](#fall-presentation)
 - [Spring Presentation](#spring-presentation)
 - [Self-Assessment Essay](#self-assessment-essay)
-- [Spring Self-Assessment](#spring-self-assessment)
+- [Spring Self Assessment](#spring-self-assessment)
 - [Professional Biography](#professional-biography)
 - [Budget](#budget)
   - [Expenses](#expenses)
