@@ -112,7 +112,7 @@ For my project, I created an Android application based around cooking recipes an
 |Investigate Google's Barcode API|3
 |Investigate user account implementation strategies for Android Apps|4
 |Research into search engine/database querying for recipe retrieval system|4
-||Total:47
+||Total: 47
 
 **Second Semester**
 
@@ -155,4 +155,4 @@ For my project, I created an Android application based around cooking recipes an
 | 4/19/21 | Senior Design - Final Report                                                                                 | 3                |
 |         |                                                                                                              | Total Hours: 108 |
 
-**Justification:** All acitivities completed in this time log were completed by Josh Antone. The dates weren't originally worked during the first semester, which was something I looked to do differently for the second semester. All first semester entries were with homework assignments or research. For the second semester, each entry is tagged with a category: Development is designated for any work related to programming the application, Senior Design is designated to homework assignments completed for the class, Testing is designated towards any testing activities, and any other tag is designated towards some form of self-learning. Development tags are supplemented with the area in which the development/programming was focused. These are typically focused on specific activities within the application.
+**Justification:** All acitivities completed in this time log were completed by Josh Antone. The dates weren't originally recored during the first semester, which was something I looked to do differently for the second semester. All first semester entries were either homework assignments or research. For the second semester, each entry is tagged with a category: Development is designated for any work related to programming the application, Senior Design is designated to homework assignments completed for the class, Testing is designated towards any testing activities, and any other tag is designated towards some form of self-learning. Development tags are supplemented with the area in which the development/programming was focused. These are typically focused on specific activities within the application.
