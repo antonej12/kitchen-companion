@@ -47,24 +47,35 @@ Test Results:
 
 |Test Case|Execution Notes|Results|
 |---|---|---|
-|User Authentication Test 1|||
-|User Authentication Test 2|||
-|Recipe Storage System Test 1|||
-|Recipe Storage System Test 2|||
-|Ingredient Storage System Test 1|||
-|Ingredient Storage System Test 2|||
-|Data Security Test 1|||
-|Recipe Retrieval Test 1|||
-|Barcode Scanning System Test 1|||
-|Unit Library Integrity Test 1|||
-|Cooking Activity System Test 1|||
-|User Experience Satisfaction Test 1|||
-|Firebase Robo Test 1|||
-|Firebase Performance Test 1|||
+|User Authentication Test 1|Inputs: Valid login credientials; Outputs: Successful login|PASS - Executed 3/19/21|
+|User Authentication Test 2|Inputs: Invalid login credientials; Outputs: Unsuccessful login|PASS - Executed 3/19/21|
+|Recipe Storage System Test 1|Inputs: Logged in user; Outputs: view showing correct recipe data for the user|PASS - Executed 3/19/21|
+|Recipe Storage System Test 2|Inputs: Logged in user, new recipe data; Outputs: Database updates with new data, updated view showing new data|PASS - Executed 3/19/21|
+|Ingredient Storage System Test 1|Inputs: Logged in user; Outputs: view showing correct ingredient data for the user|PASS - Executed 3/19/21|
+|Ingredient Storage System Test 2|Inputs: Logged in user, new ingredient data; Outputs: Database updates with new data, updated view showing new data|PASS - Executed 3/19/21|
+|Data Security Test 1|Inputs: Logged in user, action sequence that attempts to access other users data; Output: Failed ability to access data other than logged in user's own data|PASS - Executed 3/19/21|
+|Recipe Retrieval Test 1|Inputs: Logged in user, recipe and ingredient data; Outputs: Successful retrieval of recipes based on input data|PASS - Executed 3/19/21|
+|Barcode Scanning System Test 1|Inputs: Logged in user, item with a barcode; Outputs: Successful scanning of item, updates to database and views with the newly scanned item|PASS - Executed 3/20/21|
+|Unit Library Integrity Test 1|Inputs: Isolated testing using various inputs spanning normal, abnormal, and boundary conditions; Outputs: Correct/expected functionality of the unit library|PASS - Executed 3/20/21|
+|Cooking Activity System Test 1|Inputs: Logged in user; Outputs: Successful runthrough of cooking activity, updated values in database and views when cooking finishes|PASS - Executed 3/20/21|
+|User Experience Satisfaction Test 1|Inputs: User usage of application (beta version used by a few people); Outputs: Feedback corresponding to user experience|PASS - Executed 3/20/21|
+|Firebase Robo Test 1|Test leveraging Firebase Test Lab's Robo Test|Unattempted due to time constraints|
+|Firebase Performance Test 1|Test leveraging Firebase's Performance Monitoring|Unattempted due to time constraints|
 
 # User Manual
 
-todo
+Link to full user manual: [User Manual](https://github.com/antonej12/kitchen-companion/blob/master/Project_Assignments/userdocs.md)
+
+**FAQs**
+
+1. How do I get started using Kitchen Companion?
+	- You will need to sign up with an email and a password so Kitchen Companion can keep track of all your awesome recipes and ingredients! Click on the register button on the login screen to create your account. Don't worry, its a quick and easy process and we will never flood your inbox with useless emails!
+
+2. The recipe I want to cook isn't showing up!
+	- Be sure to make sure you have all the required ingredients for that recipe! As Kitchen Companion improves, we hope to be able to show you what you are missing, but for now keep a keen eye out and make sure you aren't missing anything. Sometimes ingredients have slight differences in names that might be the reason why you can't see your recipe as ready to cook. If all else fails, head over to the recipe you want to cook in the Recipe Book and click the "Cook" button in the top right menu to manually start the cooking activity for that recipe.
+
+3. Do my units of measure need to match for Kitchen Companion to recognize that I have an ingredient for a recipe?
+	- No! Kitchen Companion will do work behind the scenes converting all units of measure to see what ingredients you have. Store your ingredients however you prefer and write your recipes with whatever units of measure make sense, we will do the rest.
 
 # Spring Presentation
 [Spring Presentation Slide Deck](https://docs.google.com/presentation/d/16lV30k5VJPebfR9sPBIMGZbJqEP6NsKh34qQlwuhY2E/edit?usp=sharing)
