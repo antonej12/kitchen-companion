@@ -21,7 +21,13 @@ Kitchen Companion is an Android application that allows users to keep track of w
 
 # User Interface Specification
 
+<img src="files/ui_main.jpg" alt="Main Screen" width="200"/>  <img src="files/ui_recipes.jpg" alt="Recipes Screen" width="200"/>  <img src="files/ui_ingredients.jpg" alt="Ingredients Screen" width="200"/>  <img src="files/ui_view_recipe.jpg" alt="View Recipe Screen" width="200"/>
+
+Above are some screen captures from the application that give an idea on how the user interface is designed for this project. Navigation between the main activities is done from the Bottom Navigation bar as can be seen in the first three screenshots. Card views along with recycler views are used for the three main activities when generating the content of these activities. This includes recipe cards for the recipes screen, ingredient cards for the ingredients screen, and cookable recipes for the cook screen. These cards are fully swipeable (details of these actions can be read about in the user manual). Activities that go further into details from the three main activities, like the fourth screenshot which is viewing a recipe's details, utilitize the menu bar to hold actions that can be done. 
+
 # Test Plan and Results
+
+[Test Plan](files/Senior Design Test Plan.pdf)
 
 # User Manual
 
