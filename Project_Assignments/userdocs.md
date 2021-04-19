@@ -14,7 +14,7 @@
 	- [Deleting Recipes](#deleting-recipes)
 	- [Viewing Recipes](#viewing-recipes)
 4. [Get cooking!](#get-cooking)
-5. [F.A.Q.s](#f.a.q.s)
+5. [F.A.Q.s](#faqs)
 
 ***
 ## Getting Started
