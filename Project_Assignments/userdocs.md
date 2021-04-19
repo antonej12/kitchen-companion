@@ -63,14 +63,25 @@ When you want to remove a recipe from your recipes screen, you can simply swipe 
 To get a more detailed view on a recipe, simply click on it. This will allow you to see all the ingredients required to cook the recipe as well as all the steps. This recipe view screen also has men bar buttons to edit the recipe, delete the recipe, and to cook the recipe, a feature that will be discussed down below.
 
 <img src="../files/ui_view_recipe.jpg" width="400"/>
+
 ***
 
 ## Get Cooking!
 When it is time to start cooking, you can use the bottom navigation bar and select the cook option. This screen will show you all of the recipes you have the ingredients for. When you decide on one that looks appetizing, click on it! This will launch the cooking activity, showing you what ingredients you need to get prepared, and letting you walk through the recipe step by step as you cook. Once you are finished cooking the recipe, hit the finish cooking button and Kitchen Companion will automatically update your ingredient stock, taking out what you just used for that recipe! The cooking activity can also be started by viewing a recipe in the recipes screen and clicking the cook button in the menu bar if you already have an idea of which recipe you want to cook.
 
 <img src="../files/ui_cook.jpg" width="400"/>
+
 ***
 
 ## F.A.Q.s
+
+1. How do I get started using Kitchen Companion?
+	- You will need to sign up with an email and a password so Kitchen Companion can keep track of all your awesome recipes and ingredients! Click on the register button on the login screen to create your account. Don't worry, its a quick and easy process and we will never flood your inbox with useless emails!
+
+2. The recipe I want to cook isn't showing up!
+	- Be sure to make sure you have all the required ingredients for that recipe! As Kitchen Companion improves, we hope to be able to show you what you are missing, but for now keep a keen eye out and make sure you aren't missing anything. Sometimes ingredients have slight differences in names that might be the reason why you can't see your recipe as ready to cook. If all else fails, head over to the recipe you want to cook in the Recipe Book and click the "Cook" button in the top right menu to manually start the cooking activity for that recipe.
+
+3. Do my units of measure need to match for Kitchen Companion to recognize that I have an ingredient for a recipe?
+	- No! Kitchen Companion will do work behind the scenes converting all units of measure to see what ingredients you have. Store your ingredients however you prefer and write your recipes with whatever units of measure make sense, we will do the rest.
 
 ***
