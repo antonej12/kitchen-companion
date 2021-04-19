@@ -92,3 +92,42 @@ Obviously, by working alone, my individual contribution to the project was the e
 For my project, I created an Android application based around cooking recipes and keeping track of what ingredients users have on-hand. This required many of the skills mentioned in the paragraph above, but also many new things that I have yet to experience much of. These included mobile development, database design, using cloud resources, and more. I got up to speed with Android development by going through a lot of free tutorials and courses on the subject, and did similar things to learn about using cloud resources. I worked with Google Firebase to host the application, store my data, and authenticate users. Overall, I would call the project a success. I was able to create a functional Android application that does what it set out to do. I personally believe I had great successes designing my NoSQL database on Firebase, developing a unit library to make working with various units of measure simple, and making the application as usuable as possible given the time and resources available. The hardest challenges would generally come from my lack of familiarity with some of the fields I worked with, especially because a lot of these technologies are very new and bleeding edge. This would make finding reference material difficult and I would often realize that the reference material I did find was already out-of-date despite being only months old. Adding a barcode scanning feature to my app also proved to be very troublesome, as I quickly learned how unstandardized UPC codes are, but I believe I was able to make a good effort in implementing that feature to the best of my ability.
 
 # Summary of Hours
+
+| Date    | Activity                                                                                                     | Hours            |
+| ------- | ------------------------------------------------------------------------------------------------------------ | ---------------- |
+| 1/18/21 | Android Kotlin Codelabs for Interface Design                                                                 | 4                |
+| 1/20/21 | Google Firebase - Learning Cloud Firestore/Realtime Database                                                 | 3                |
+| 1/22/21 | Google Firebase - Cloud Firestore Research/Data Design;<br>Android Studio - Project Creation/Git Integration | 3                |
+| 1/24/21 | Senior Design - Test Plan                                                                                    | 2                |
+| 1/25/21 | Development - SignIn/Register Activities using Firebase Authentication                                       | 4                |
+| 1/27/21 | Development - Unit library creation                                                                          | 3                |
+| 1/29/21 | Development - Bottom Navigation Bar                                                                          | 4                |
+| 2/1/21  | Development - Ingredient Stock progress                                                                      | 4                |
+| 2/3/21  | Development - Ingredient Stock: Custom Object from Firestore Integration                                     | 3                |
+| 2/5/21  | Development - Ingredient Stock: adding new ingredients, UI improvements                                      | 4                |
+| 2/7/21  | Development - Ingredient Stock: Swiping features - Delete (Full) + Edit (Visuals only)                       | 2                |
+| 2/8/21  | Development - Ingredient Stock: Swiping features - Edit; Item OnClick -> Edit                                | 2                |
+| 2/9/21  | Senior Design - User Docs                                                                                    | 2                |
+| 2/10/21 | Development - Recipe Book: Custom Object <- Firestore                                                        | 3                |
+| 2/12/21 | Delevopment - Recipe Book: View Recipe Activity                                                              | 3                |
+| 2/15/21 | Development - Recipe Book: Edit Recipe Activity                                                              | 4                |
+| 2/17/21 | Development - Recipe Book: Edit Recipe Activity, Swipe events, delete/add                                    | 4                |
+| 2/19/21 | Development - Recipe Book: Restructuring of "schema"                                                         | 2                |
+| 2/22/21 | Senior Design - Slide Deck                                                                                   | 1                |
+| 2/24/21 | Development - More "Schema" restructuring, unit storage overhaul                                             | 3                |
+| 2/26/21 | Development - Schema restructuring reversals, ended up being a bad idea                                      | 2                |
+| 3/1/21  | Development - Theory work on Querying cookable recipes, structure in place for displaying                    | 5                |
+| 3/2/21  | Senior Design - Poster Rough Draft                                                                           | 1                |
+| 3/3/21  | Development - Recipe Retrieval/Cook Fragment Display                                                         | 3                |
+| 3/5/21  | Development - Cook Fragment, Cook Activity                                                                   | 3                |
+| 3/8/21  | Development - Finished up Cook Activity, Barcode Scanner: Implementation                                     | 4                |
+| 3/10/21 | Development - Barcode Scanner: Parsing progress                                                              | 2                |
+| 3/12/21 | Development - Barcode Scanner: Parsing Complete                                                              | 4                |
+| 3/15/21 | Development - Visual Updates/Design Changes                                                                  | 3                |
+| 3/17/21 | Development - Visual Updates/Design Changes                                                                  | 4                |
+| 3/19/21 | Testing - Importing Real data, App runthrough with real data                                                 | 3                |
+| 3/20/21 | Testing - Bug Fixes from intial testing, Continue with more testing                                          | 3                |
+| 3/22/21 | Senior Design - Document Updates: Poster, Design Diagram, Slide Deck, and User Docs                          | 4                |
+| 3/24/21 | Senior Design - Record and Edit Video Presentation, Turn in all Materials to the sheets doc, peer reviews    | 4                |
+| 4/19/21 | Senior Design - Final Report                                                                                 | 3                |
+|         |                                                                                                              | Total Hours: 108 |
