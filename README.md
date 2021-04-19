@@ -2,7 +2,7 @@
 Table of Contents:
 
 - [Project Description](#project-description)
-- [User Interface Specification](#user-interface-specifcation)
+- [User Interface Specification](#user-interface-specification)
 - [Test Plan and Results](#test-plan-and-results)
 - [User Manual](#user-manual)
 - [Spring Presentation](#spring-presentation)
