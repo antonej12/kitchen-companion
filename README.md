@@ -17,7 +17,7 @@ Choosing recipes to cook, specifically during a busy work week, can be hard and 
 Kitchen Companion is a mobile application that helps alleviate any stress when it comes to figuring out what to cook. It will allow users to keep track of what ingredients they have available and give them recipes to cook based on what they have. 
 By using kitchen companion, users will spend less time trying to figure out what they can cook, and more time eating delicious meals.
 
-Mobile app that provides user with features to make cooking food easier. The main functionality revolves around keeping stock of the user's ingredients, and giving them recipe suggestions based on what they have stocked.
+Kitchen Companion is an Android application that allows users to keep track of what ingredients they have in their kitchen, save recipes to a recipe book, and get recipes from their recipe book based on the ingredients they have in their kitchen. This project aims to get more people into cooking at home by helping alleviate any stress that comes with deciding what to cook.
 
 # User Interface Specification
 
