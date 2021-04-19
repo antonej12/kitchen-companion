@@ -1,6 +1,6 @@
 
 # User Documentation
-***(DISCLAIMER: User documentation to be updated with screenshots/visuals as development is carried out and completed.)***
+
 ## Table of Contents: 
 
 1. [Getting Started](#getting-started)
@@ -14,11 +14,12 @@
 	- [Deleting Recipes](#deleting-recipes)
 	- [Viewing Recipes](#viewing-recipes)
 4. [Get cooking!](#get-cooking)
+5. [F.A.Q.s](#f.a.q.s)
 
 ***
 ## Getting Started
 
-After installing the Kitchen Companion app from the Google Play store, you will need to create in the application before you can start using the many great features of the application. Click on the register button located on the app's login screen to get started. You will be taken to the registration screen, where you will need to provide an email address and a password. Upon supplying this information and clicking the register button, you will be ready to login to Kitchen Companion and get started using the many features designed you make your kitchen experience better!
+After installing the Kitchen Companion app from the Google Play store, you will need to create an account in the application before you can start using the many great features of the application. Click on the register button located on the app's login screen to get started. You will be taken to the registration screen, where you will need to provide an email address and a password. Upon supplying this information and clicking the register button, you will be ready to login to Kitchen Companion and get started using the many features designed you make your kitchen experience better!
 
 ***
 ## Managing Ingredients
@@ -56,3 +57,5 @@ To get a more detailed view on a recipe, simply click on it. This will allow you
 
 ## Get Cooking!
 When it is time to start cooking, you can use the bottom navigation bar and select the cook option. This screen will show you all of the recipes you have the ingredients for. There are filters and a search bar that can be used to filter down what recipes are shown. When you decide on one that looks appetizing, click on it! This will launch the cooking activity, showing you what ingredients you need to get prepared, and letting you walk through the recipe step by step as you cook. Once you are finished cooking the recipe, hit the finish cooking button and Kitchen Companion will automatically update your ingredient stock, taking out what you just used for that recipe! The cooking activity can also be started by viewing a recipe in the recipes screen and clicking the cook button in the menu bar if you already have an idea of which recipe you want to cook.
+
+## F.A.Q.s
